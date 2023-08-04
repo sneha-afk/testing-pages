@@ -8,6 +8,6 @@ assert True, "False :("
 print("hello world")
 ```
 
-See the [static binary search file.](/file_binary_search.py)
+Tutorial for [JupyterBook](https://jupyterbook.org/en/stable/start/your-first-book.html)
 
-Or look at the [Jupyter Notebook.](/binary_search.ipynb)
+See [deployment](https://sneha-afk.github.io/testing-pages/intro.html) of the page: 
